@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(193, 199, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    color: white; 
+}
+
+.body-main {
+    text-align: left; 
+}
+
+ul {
+    display: table;
+    margin: 10;
+    text-align: left; 
+    padding: 10;
+    list-style-position: initial;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    0px;
+}
+
+.description {
+    font-size: 12px;
+}
+
+.intro {
+    font-style: italic;
+    font-weight: bold; 
+}
+
+.par-title {
+    color: darkgoldenrod;
+}
+
+.home-div {
+    text-align: center;
+}
+
+.home-link {
+    color: green;
+}

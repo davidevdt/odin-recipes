@@ -14,4 +14,4 @@ The project will gradually develop to accommodate the new skills learned during 
 2. CSS basics 
 3. JS basics
 
-At the moment, the project is presented for the following level: `HTML basics`. 
+At the moment, the project is presented for the following level: `CSS basics`. 
